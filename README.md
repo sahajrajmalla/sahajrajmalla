@@ -11,25 +11,38 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 &nbsp;&nbsp; Connect with me:
+<br>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahajrajmalla)
 &nbsp;&nbsp;
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahaj_malla)
 
 
+---
+<br>
+
 ## *My Techstack:*
+
+### **Mathematics**
+
+- Linear Algebra
+- Complex Number
+- Calculus
+- Statistics
+- Probability
+
 
 ### **Web Application Development**
 
 - #### *Frontend Tools*
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/typescript.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/plasticine/32/000000/react.png"/>
-<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
-<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color: white; margin:2px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
 "/>
 
 <br/>
@@ -38,10 +51,10 @@
 - #### *Backend Tools*
 
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px"  src="https://img.icons8.com/color/32/000000/python--v2.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/django.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/celery.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/graphql.png"/>
-<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 
 <br/>
 <br/>
@@ -59,11 +72,11 @@
 ### **Data Science**
 
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/numpy.png"/>
-<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/tensorflow.png"/>
 <img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
-<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/tensorflow.png"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
 "/>
 
 <br/>
@@ -78,16 +91,16 @@
 <br/>
 
 ### **Quantum Computing**
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png"/>
 
 <br/>
 <br/>
 
 ### **Management Tools**
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/slack-new.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/jira.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/notion--v1.png"/>
-<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/slack-new.png"/>
 
 <br/>
 <br/>
@@ -99,6 +112,8 @@
 
 <br/>
 <br/>
+
+
 
 ---
 
