@@ -1,4 +1,4 @@
-# Hello World, I'm Sahaj Raj Malla - aka [S.T.E.M. Geek] 👋 
+# Hello World 👋, I'm Sahaj Raj Malla - aka [S.T.E.M. Geek]  
 
 ## I'm a Mathematician, Programmer and Researcher.
 
@@ -42,7 +42,7 @@
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/typescript.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/plasticine/32/000000/react.png"/>
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="img/nextjs.jpg"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="img/next.svg"/>
 
 <br/>
 <br/>
@@ -71,12 +71,11 @@
 ### **Data Science**
 
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/numpy.png"/>
-<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
+<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="img/pandas.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/tensorflow.png"/>
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
-"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="img/Apache_Spark_logo.svg"/>
 
 <br/>
 <br/>
@@ -90,7 +89,7 @@
 <br/>
 
 ### **Quantum Computing**
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="img/Qiskit.svg"/>
 <br/>
 <br/>
 
