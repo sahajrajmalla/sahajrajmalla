@@ -81,7 +81,7 @@
 <br/>
 
 ### **Cloud Computing**
-<img align="left" alt="HTML5" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
 <img align="left" alt="HTML5" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/fluency/32/000000/azure-1.png"/>
 
 
