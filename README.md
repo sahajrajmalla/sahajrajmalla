@@ -20,67 +20,85 @@
 
 ## *My Techstack:*
 
-1. ### **Web Application Development**
+### **Web Application Development**
 
 - #### *Frontend Tools*
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/26/000000/javascript--v2.png" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/26/000000/typescript.png" style="padding-right:10px;" />
-<img src="https://img.icons8.com/plasticine/26/000000/react.png"/>
-<img src="https://img.icons8.com/color/26/000000/bootstrap.png"/>
-<img  style="width: 26px; height: 26px; background-color: white" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/typescript.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/plasticine/32/000000/react.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color: white; margin:2px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
 "/>
 
+<br/>
+<br/>
 
 - #### *Backend Tools*
 
-<img src="https://img.icons8.com/color/26/000000/python--v2.png"/>
-<img src="https://img.icons8.com/color/26/000000/django.png"/>
-<img src="https://img.icons8.com/color/26/000000/celery.png"/>
-<img src="https://img.icons8.com/color/26/000000/graphql.png"/>
-<img style="width: 26px; height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px"  src="https://img.icons8.com/color/32/000000/python--v2.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/django.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/celery.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/graphql.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 
+<br/>
+<br/>
 
 - #### *Database*
-<img src="https://img.icons8.com/color/26/000000/redis.png"/>
-<img src="https://img.icons8.com/color/26/000000/microsoft-sql-server.png"/>
-<img src="https://img.icons8.com/color/26/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
-<img  src="https://img.icons8.com/color/26/000000/mongodb.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/redis.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/microsoft-sql-server.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/postgreesql.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/mysql-logo.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px"  src="https://img.icons8.com/color/32/000000/mongodb.png"/>
 
-### Data Science
+<br/>
+<br/>
 
-<img src="https://img.icons8.com/color/26/000000/numpy.png"/>
-<img src="https://img.icons8.com/color/26/000000/tensorflow.png"/>
-<img style="width: 26px; height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
-<img style="width: 26px; height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img style="width: 26px; height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
-<img style="width: 26px; height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
+### **Data Science**
+
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/numpy.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/tensorflow.png"/>
+<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg
 "/>
 
+<br/>
+<br/>
 
-### Cloud Computing
-<img src="https://img.icons8.com/color/26/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/fluency/26/000000/azure-1.png"/>
+### **Cloud Computing**
+<img align="left" alt="HTML5" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/amazon-web-services.png"/>
+<img align="left" alt="HTML5" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/fluency/32/000000/azure-1.png"/>
 
 
+<br/>
+<br/>
 
+### **Quantum Computing**
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png"/>
 
-### Quantum Computing
-<img style="width: 26px; height: 26px; background-color:white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png"/>
+<br/>
+<br/>
 
-### Management Tools
-<img src="https://img.icons8.com/color/26/000000/git.png"/>
-<img src="https://img.icons8.com/color/26/000000/jira.png"/>
-<img src="https://img.icons8.com/color/26/000000/notion--v1.png"/>
-<img src="https://img.icons8.com/color/26/000000/slack-new.png"/>
+### **Management Tools**
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/git.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/jira.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/notion--v1.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/slack-new.png"/>
 
-### Operating System
-<img src="https://img.icons8.com/color/26/000000/linux--v2.png"/>
-<img src="https://img.icons8.com/color/26/000000/ubuntu--v1.png"/>
-<img src="https://img.icons8.com/color/26/000000/kali-linux.png"/>
-<br />
+<br/>
+<br/>
+
+### **Operating System**
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/linux--v2.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/ubuntu--v1.png"/>
+<img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/kali-linux.png"/>
+
+<br/>
+<br/>
 
 ---
 
