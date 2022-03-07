@@ -42,7 +42,7 @@
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/typescript.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/plasticine/32/000000/react.png"/>
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="img/next.svg"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; margin-right:10px" src="img/next.jpg"/>
 
 <br/>
 <br/>
@@ -71,11 +71,11 @@
 ### **Data Science**
 
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/numpy.png"/>
-<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; background-color:white; margin-right:10px" src="img/pandas.svg"/>
+<img align="left" alt="HTML5" width="32px" style="width: 32px; height: 32px; margin-right:10px" src="img/pandas.jpg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" style="width: 32px; height: 32px" src="https://img.icons8.com/color/32/000000/tensorflow.png"/>
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="img/Apache_Spark_logo.svg"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; margin-right:10px;" src="img/Apache_Spark_logo.jpg"/>
 
 <br/>
 <br/>
@@ -89,7 +89,7 @@
 <br/>
 
 ### **Quantum Computing**
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="img/Qiskit.svg"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; margin-right:10px;" src="img/Qiskit.jpg"/>
 <br/>
 <br/>
 
