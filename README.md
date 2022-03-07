@@ -42,8 +42,7 @@
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/javascript--v2.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/color/32/000000/typescript.png"/>
 <img align="left" alt="HTML5" width="32px" style="margin-right:10px" src="https://img.icons8.com/plasticine/32/000000/react.png"/>
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg
-"/>
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color: white; margin-right:10px" src="img/nextjs.jpg"/>
 
 <br/>
 <br/>
@@ -91,8 +90,7 @@
 <br/>
 
 ### **Quantum Computing**
-<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/393px-Qiskit-Logo.svg.png"/>
-
+<img align="left" alt="HTML5" style="width: 32px; height: 32px; background-color:white; margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg"/>
 <br/>
 <br/>
 
