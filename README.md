@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning Computational Complexity and Quantum Computation 🧠
 - 👯 I’m looking to collaborate with other in Scientific Research Papers Writing.
-- 🥅 2022 Goals: Publish a great Research Paper.
+- 🥅 2023 Goals: Publish a great Research Paper.
 - ⚡ Fun fact: I love to play violin , football and learn new stuffs. 
 
 ---
